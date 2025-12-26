@@ -1,0 +1,6 @@
+Name: Satwik
+Github: DeadlySatwik
+Role: Computer Science / IT Student
+Skills: C, C++, DSA, Unity basics, Git
+Interests: Game development, systems design, open-world mechanics
+Notes: Excited to learn Unity through structured, real-world projects.
